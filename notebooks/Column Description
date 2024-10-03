@@ -1,0 +1,11 @@
+# name: Title of game
+# platform: Gaming system
+# year_of_release: Year game was released
+# genre: Category of game (i.e. Action, Sports)
+# na_sales: North American sales in USD Million
+# eu_sales: Sales in Europe in USD Million
+# jp_sales: Sales in Japan in USD Million
+# other_sales: Sales in other countries in USD Million
+# critic_score: Ratings given to a game by professional gaming establishments (maximum score of 100)
+# user_score: Ratings given to a game by regular gamers (maximum score of 10)
+# rating: The rating given by the ESRB (Entertainment Software Rating Board). This establishment assigns age and content ratings to video games (i.e. "M" for Mature)
